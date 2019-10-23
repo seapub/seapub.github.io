@@ -1,2 +1,0 @@
-# seapub.github.io
-blog
